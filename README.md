@@ -2,4 +2,6 @@
 
 Козлов Сергій
 
-Програмна система для моніторингу та автоматизованого догляду за акваріумами
+ПЗ1: Правила оформлення програмного коду на TypeScript
+
+ПЗ2: Методи рефакторингу коду(Encapsulate Collection, Replace Conditional with Polymorphism, Replace Data Value with Object)
